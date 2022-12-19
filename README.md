@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @nvsimbolon! I'm a UX/UI Designer and Data Science, Sociology, & Design major at Northwestern University.
+- 👋 Hi, I’m @nvsimbolon! I'm a Product Manager and Data Science & Design major at Northwestern University.
 - 👀 I’m interested in creating data visualizations and useful, beautiful designs. 
-- 🌱 I’m currently teaching myself UX/UI and learning data science and analytics through my coursework.
-- 💞️ I’m looking to collaborate on UX/UI projects and/or data visualization projects.
+- 🌱 I've worked on high-impact products and am learning how to apply my data science, research, and analysis skills to drive product development.
+- 💞️ I’m looking for product management or product analysis roles!
 - 📫 How to reach me: 
-<br> - Email: simbolon@u.northwestern.edu
-<br> - Portofolio: www.nsimbolon.editorx.io/portfolio
+<br> - Email: natalievsimbolon@gmail.com
+<br> - Portofolio: https://nsimbolon.wixsite.com/portfolio
 <br> - Linkedin: www.linkedin.com/in/nataliesimbolon
 <br> - Instagram: www.instagram.com/ntalie.dsgns/
