@@ -4,6 +4,6 @@
 - 💞️ I’m looking for product management or product analysis roles!
 - 📫 How to reach me: 
 <br> - Email: natalievsimbolon@gmail.com
-<br> - Portofolio: https://nsimbolon.wixsite.com/portfolio
+<br> - Portfolio: https://nsimbolon.wixsite.com/portfolio
 <br> - Linkedin: www.linkedin.com/in/nataliesimbolon
 <br> - Instagram: www.instagram.com/ntalie.dsgns/
